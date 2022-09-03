@@ -363,7 +363,7 @@
         "Suit":"hearts",
         "Number":"queen"
     },
-    "49":{
+    "48":{
         "image":"images/cards/queen_of_spades.svg",
         "special rule":"",
         "Point value":16,
@@ -374,7 +374,7 @@
 
 
 
-    "60":{
+    "49":{
         "image":"images/cards/king_of_clubs.svg",
         "special rule":"",
         "Point value":2,
@@ -382,21 +382,21 @@
         "Number":"king"
     },
 
-    "61":{
+    "50":{
         "image":"images/cards/king_of_diamonds.svg",
         "special rule":"",
         "Point value":2,
         "Suit":"diamonds",
         "Number":"king"
     },
-    "62":{
+    "51":{
         "image":"images/cards/king_of_hearts.svg",
         "special rule":"",
         "Point value":2,
         "Suit":"hearts",
         "Number":"king"
     },
-    "63":{
+    "52":{
         "image":"images/cards/king_of_spades.svg",
         "special rule":"",
         "Point value":2,
