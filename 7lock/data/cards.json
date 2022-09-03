@@ -7,7 +7,7 @@
         "Number":"2"
     },
     "2":{
-        "image":"images/cards/2_of_dimonds.svg",
+        "image":"images/cards/2_of_diamonds.svg",
         "special rule":"The next player draws two cards. If played imidetly after another 2 don't pick up two and the next play must pick up 4.",
         "Point value":20,
         "Suit":"dimonds",
