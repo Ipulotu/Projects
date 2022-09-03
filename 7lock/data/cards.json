@@ -406,17 +406,14 @@
 
 
 
-
-
-
-    "64":{
+    "53":{
         "image":"images/cards/red_joker.svg",
         "special rule":"",
         "Point value":50,
         "Suit":"joker",
         "Number":"joker"
     },
-    "65":{
+    "54":{
         "image":"images/cards/black_joker.svg",
         "special rule":"",
         "Point value":50,
