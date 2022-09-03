@@ -1,0 +1,426 @@
+{
+    "1":{
+        "image":"images/cards/2_of_clubs.svg",
+        "special rule":"The next player draws two cards. If played imidetly after another 2 don't pick up two and the next play must pick up 4.",
+        "Point value":20,
+        "Suit":"clubs",
+        "Number":"2"
+    },
+    "2":{
+        "image":"images/cards/2_of_dimonds.svg",
+        "special rule":"The next player draws two cards. If played imidetly after another 2 don't pick up two and the next play must pick up 4.",
+        "Point value":20,
+        "Suit":"dimonds",
+        "Number":"2"
+    },
+    "3":{
+        "image":"images/cards/2_of_hearts.svg",
+        "special rule":"The next player draws two cards. If played imidetly after another 2 don't pick up two and the next play must pick up 4.",
+        "Point value":20,
+        "Suit":"hearts",
+        "Number":"2"
+    },
+    "4":{
+        "image":"images/cards/2_of_spades.svg",
+        "special rule":"The next player draws two cards. If played imidetly after another 2 don't pick up two and the next play must pick up 4.",
+        "Point value":20,
+        "Suit":"spades",
+        "Number":"2"
+    },
+
+
+
+    "5":{
+        "image":"images/cards/3_of_clubs.svg",
+        "special rule":"",
+        "Point value":3,
+        "Suit":"clubs",
+        "Number":"3"
+    },
+    "6":{
+        "image":"images/cards/3_of_diamonds.svg",
+        "special rule":"",
+        "Point value":3,
+        "Suit":"diamonds",
+        "Number":"3"
+    },
+    "7":{
+        "image":"images/cards/3_of_hearts.svg",
+        "special rule":"",
+        "Point value":3,
+        "Suit":"hearts",
+        "Number":"3"
+    },
+    "8":{
+        "image":"images/cards/3_of_spades.svg",
+        "special rule":"",
+        "Point value":3,
+        "Suit":"spades",
+        "Number":"3"
+    },
+
+
+
+    "9":{
+        "image":"images/cards/4_of_clubs.svg",
+        "special rule":"Reveres to the player to the right for one turn.",
+        "Point value":4,
+        "Suit":"clubs",
+        "Number":"4"
+    },
+    "10":{
+        "image":"images/cards/4_of_diamonds.svg",
+        "special rule":"Reveres to the player to the right for one turn.",
+        "Point value":4,
+        "Suit":"diamonds",
+        "Number":"4"
+    },
+    "11":{
+        "image":"images/cards/4_of_hearts.svg",
+        "special rule":"Reveres to the player to the right for one turn.",
+        "Point value":4,
+        "Suit":"clubs",
+        "Number":"4"
+    },
+    "12":{
+        "image":"images/cards/4_of_spades.svg",
+        "special rule":"Reveres to the player to the right for one turn.",
+        "Point value":4,
+        "Suit":"spades",
+        "Number":"4"
+    },
+
+
+
+    "13":{
+        "image":"images/cards/5_of_clubs.svg",
+        "special rule":"",
+        "Point value":5,
+        "Suit":"clubs",
+        "Number":"5"
+    },
+    "14":{
+        "image":"images/cards/5_of_diamonds.svg",
+        "special rule":"",
+        "Point value":5,
+        "Suit":"diamonds",
+        "Number":"5"
+    },
+    "15":{
+        "image":"images/cards/5_of_hearts.svg",
+        "special rule":"",
+        "Point value":5,
+        "Suit":"hearts",
+        "Number":"5"
+    },
+    "16":{
+        "image":"images/cards/5_of_spades.svg",
+        "special rule":"",
+        "Point value":5,
+        "Suit":"spades",
+        "Number":"5"
+    },
+
+
+
+    "17":{
+        "image":"images/cards/6_of_clubs.svg",
+        "special rule":"",
+        "Point value":6,
+        "Suit":"clubs",
+        "Number":"6"
+    },
+    "18":{
+        "image":"images/cards/6_of_diamonds.svg",
+        "special rule":"",
+        "Point value":6,
+        "Suit":"diamonds",
+        "Number":"6"
+    },
+    "19":{
+        "image":"images/cards/6_of_hearts.svg",
+        "special rule":"",
+        "Point value":6,
+        "Suit":"hearts",
+        "Number":"6"
+    },
+    "20":{
+        "image":"images/cards/6_of_spades.svg",
+        "special rule":"",
+        "Point value":6,
+        "Suit":"spades",
+        "Number":"6"
+    },
+
+
+
+    "31":{
+        "image":"images/cards/7_of_clubs.svg",
+        "special rule":"",
+        "Point value":7,
+        "Suit":"clubs",
+        "Number":"7"
+    },
+    "32":{
+        "image":"images/cards/7_of_diamonds.svg",
+        "special rule":"",
+        "Point value":7,
+        "Suit":"diamonds",
+        "Number":"7"
+    },
+    "33":{
+        "image":"images/cards/7_of_hearts.svg",
+        "special rule":"",
+        "Point value":7,
+        "Suit":"hearts",
+        "Number":"7"
+    },
+    "34":{
+        "image":"images/cards/7_of_spades.svg",
+        "special rule":"",
+        "Point value":7,
+        "Suit":"spades",
+        "Number":"7"
+    },
+
+
+
+    "35":{
+        "image":"images/cards/8_of_clubs.svg",
+        "special rule":"Skip the next player",
+        "Point value":8,
+        "Suit":"clubs",
+        "Number":"8"
+    },
+    "36":{
+        "image":"images/cards/8_of_diamonds.svg",
+        "special rule":"Skip the next player",
+        "Point value":8,
+        "Suit":"diamonds",
+        "Number":"8"
+    },
+    "37":{
+        "image":"images/cards/8_of_hearts.svg",
+        "special rule":"Skip the next player",
+        "Point value":8,
+        "Suit":"hearts",
+        "Number":"8"
+    },
+    "38":{
+        "image":"images/cards/8_of_spades.svg",
+        "special rule":"Skip the next player",
+        "Point value":8,
+        "Suit":"spades",
+        "Number":"8"
+    },
+
+
+
+    "39":{
+        "image":"images/cards/9_of_clubs.svg",
+        "special rule":"",
+        "Point value":9,
+        "Suit":"clubs",
+        "Number":"9"
+    },
+    "40":{
+        "image":"images/cards/9_of_diamonds.svg",
+        "special rule":"",
+        "Point value":9,
+        "Suit":"diamonds",
+        "Number":"9"
+    },
+    "41":{
+        "image":"images/cards/9_of_hearts.svg",
+        "special rule":"",
+        "Point value":9,
+        "Suit":"hearts",
+        "Number":"9"
+    },
+    "42":{
+        "image":"images/cards/9_of_spades.svg",
+        "special rule":"",
+        "Point value":9,
+        "Suit":"spades",
+        "Number":"9"
+    },
+
+
+
+    "43":{
+        "image":"images/cards/10_of_clubs.svg",
+        "special rule":"",
+        "Point value":10,
+        "Suit":"clubs",
+        "Number":10
+    },
+    "44":{
+        "image":"images/cards/10_of_diamonds.svg",
+        "special rule":"",
+        "Point value":10,
+        "Suit":"diamonds",
+        "Number":10
+    },
+    "45":{
+        "image":"images/cards/10_of_hearts.svg",
+        "special rule":"",
+        "Point value":10,
+        "Suit":"hearts",
+        "Number":10
+    },
+    "46":{
+        "image":"images/cards/10_of_spades.svg",
+        "special rule":"",
+        "Point value":10,
+        "Suit":"spades",
+        "Number":10
+    },
+
+
+
+
+    "47":{
+        "image":"images/cards/ace_of_clubs.svg",
+        "special rule":"",
+        "Point value":1,
+        "Suit":"clubs",
+        "Number":"ace"
+    },
+    "48":{
+        "image":"images/cards/ace_of_diamonds.svg",
+        "special rule":"",
+        "Point value":1,
+        "Suit":"diamonds",
+        "Number":"ace"
+    },
+    "49":{
+        "image":"images/cards/ace_of_hearts.svg",
+        "special rule":"",
+        "Point value":1,
+        "Suit":"hearts",
+        "Number":"ace"
+    },
+    "50":{
+        "image":"images/cards/ace_of_spades.svg",
+        "special rule":"",
+        "Point value":1,
+        "Suit":"spades",
+        "Number":"ace"
+    },
+
+
+
+    "51":{
+        "image":"images/cards/jack_of_clubs.svg",
+        "special rule":"Pick a suite or a number. each play will draw on there turn until the suite or number is played.",
+        "Point value":15,
+        "Suit":"clubs",
+        "Number":"jack"
+    }, 
+     "52":{
+        "image":"images/cards/jack_of_diamonds.svg",
+        "special rule":"Pick a suite or a number. each play will draw on there turn until the suite or number is played.",
+        "Point value":15,
+        "Suit":"diamonds",
+        "Number":"jack"
+    },
+    "53":{
+        "image":"images/cards/jack_of_hearts.svg",
+        "special rule":"Pick a suite or a number. each play will draw on there turn until the suite or number is played.",
+        "Point value":15,
+        "Suit":"hearts",
+        "Number":"jack"
+    }, 
+     "54":{
+        "image":"images/cards/jack_of_spades.svg",
+        "special rule":"Pick a suite or a number. each play will draw on there turn until the suite or number is played.",
+        "Point value":15,
+        "Suit":"spades",
+        "Number":"jack"
+    },
+
+
+
+
+    "55":{
+        "image":"images/cards/queen_of_clubs.svg",
+        "special rule":"",
+        "Point value":16,
+        "Suit":"clubs",
+        "Number":"queen"
+    },
+    "56":{
+        "image":"images/cards/queen_of_diamonds.svg",
+        "special rule":"",
+        "Point value":16,
+        "Suit":"diamonds",
+        "Number":"queen"
+    },
+    "57":{
+        "image":"images/cards/queen_of_hearts.svg",
+        "special rule":"",
+        "Point value":16,
+        "Suit":"hearts",
+        "Number":"queen"
+    },
+    "59":{
+        "image":"images/cards/queen_of_spades.svg",
+        "special rule":"",
+        "Point value":16,
+        "Suit":"spades",
+        "Number":"queen"
+    },
+    
+
+
+
+    "60":{
+        "image":"images/cards/king_of_clubs.svg",
+        "special rule":"",
+        "Point value":2,
+        "Suit":"clubs",
+        "Number":"king"
+    },
+
+    "61":{
+        "image":"images/cards/king_of_diamonds.svg",
+        "special rule":"",
+        "Point value":2,
+        "Suit":"diamonds",
+        "Number":"king"
+    },
+    "62":{
+        "image":"images/cards/king_of_hearts.svg",
+        "special rule":"",
+        "Point value":2,
+        "Suit":"hearts",
+        "Number":"king"
+    },
+    "63":{
+        "image":"images/cards/king_of_spades.svg",
+        "special rule":"",
+        "Point value":2,
+        "Suit":"spades",
+        "Number":"king"
+    },
+
+
+
+
+
+
+    "64":{
+        "image":"images/cards/red_joker.svg",
+        "special rule":"",
+        "Point value":50,
+        "Suit":"joker",
+        "Number":"joker"
+    },
+    "65":{
+        "image":"images/cards/black_joker.svg",
+        "special rule":"",
+        "Point value":50,
+        "Suit":"joker",
+        "Number":"joker"
+    }
+}
